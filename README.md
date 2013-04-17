@@ -1,4 +1,4 @@
-routes-nic-android
+bus-routes-in-managua
 ==================
 
-Android aplication routes project by @ernestoruiz89
+https://wiki.openstreetmap.org/wiki/Bus_routes_in_Managua
